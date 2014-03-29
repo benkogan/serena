@@ -1,0 +1,11 @@
+.post pre {
+    border: 0px;
+    background-color: none;
+    font-family: 'PT Serif', 'Times New Roman', Times, serif;
+}
+
+.post code {
+    border: 0px;
+    background-color: none;
+    font-family: 'PT Serif', 'Times New Roman', Times, serif;
+}

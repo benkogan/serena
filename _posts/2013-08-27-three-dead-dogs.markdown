@@ -1,15 +1,17 @@
 ---
 layout:   post
 title:    "Three Dead Dogs"
-category: other work
+category: Other Work
 ---
 
+**1**
+
 ```
-1
-Today when I do my pull-ups I watch twin deer
+    Today when I do my pull-ups I watch twin deer
 born in Keith and Petra’s backyard. In their first
 moments they are rash-pledged, outgoing.
-When I work out I watch a VHS tape of me
+
+    When I work out I watch a VHS tape of me
 naked in the bath with my sister when I am eighteen
 months old. Vigorously I miss the purple bath
 bucket we have until I am seven. I pour water over
@@ -24,13 +26,14 @@ bedroom which I like to stay in and eat here
 sometimes. Keith and Petra’s moms and my
 backyards are all of the suburbs deep in grass and
 today they are so wet.
-There is a fir tree that joins ours and their
+
+    There is a fir tree that joins ours and their
 backyards together and under this twin deer are
 born today. I see the new deer stand just after they
 are born but I sweat into my eyes and do not see
 them walk.
 
-2
+**2**
 I am good at hearing sounds that nations make.
 Today I listen to the gleaming click of the
 Byzantine Empire in the rims of wine glasses.
@@ -55,7 +58,7 @@ like sweet girl and pookie which are two names she
 does not call me or my sister even though she loves
 us too and best. 
  
-3
+**3**
 I can hear this too like a timeline can hear the
 notes in Mom’s scream when she realizes the door
 is open and the dog is dead.
