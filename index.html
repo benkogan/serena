@@ -15,15 +15,25 @@ title: Serena Solin
     <ul class="posts">
       {% for posts in category %}
         {% for post in posts %}
-          {% if post.external_url %}
-            <li><span>{{ post.date | date_to_string }}</span> &raquo; 
-            <a href="{{ post.external_url }}">{{ post.title }}</a></li>
+
+          {% if post.category == "Published In" %}
+            {% if post.external_url %}
+              <li><span>{{ post.date | date_to_string }}</span> &raquo; 
+              <a href="{{ post.external_url }}">{{ post.title }}</a></li>
+            {% else %}
+              <li><span>{{ post.date | date_to_string }}</span> &raquo; 
+              <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
           {% else %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
           {% endif %}
+
         {% endfor %}
       {% endfor %}
     </ul>
 
   {% endfor %}
 </div>
+
+<!-- Website by Ben Kogan <http://benkogan.com> -->
+<!-- Built on Jekyll      <http://jekyllrb.com> -->

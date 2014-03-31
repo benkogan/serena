@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 13.34px 'PT Sans', Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -34,6 +34,7 @@ a:visited { color: #a0a; }
 /* Home
 /*
 /*****************************************************************************/
+
 .posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -57,11 +58,19 @@ a:visited { color: #a0a; }
 
 .site {
   font-size: 115%;
-  text-align: justify;
+  text-align: left;
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
+
+a {
+  color: #a00;
+  text-decoration: none;
+}
+
+a:hover { text-decoration: underline; }
+a:visited { color: #a00; }
 
 .header a {
   font-weight: bold;
@@ -127,4 +136,6 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
-
+.post ul, .post ol {                                                            
+  margin-left: 1.35em;                                                          
+}  
