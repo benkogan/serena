@@ -9,9 +9,6 @@ title: Serena Solin
     {% assign words = category[0] | split: ' ' %}
     <h1>{{ words[0] | capitalize }} {{ words[1] | capitalize }} {{ words[2] }} {{ words[3] | capitalize }} {{ words[4] | capitalize }} {{ words[n] | capitalize }}</h1>
 
-
-  <!-- <h1>{{ category | first | capitalize }}</h1> -->
-
     <ul class="posts">
       {% for posts in category %}
         {% for post in posts %}
