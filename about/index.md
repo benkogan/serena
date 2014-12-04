@@ -3,10 +3,4 @@ layout: default
 title:  Serena Solin - About
 ---
 
-Serena Solin is a sophomore at Columbia University double majoring in English and Creative Writing with a focus in Poetry. 
-
-Website designed by [Ben Kogan][bmk] on top of [Jekyll][jek].
-
-
-[bmk]: http://benkogan.com
-[jek]: http://jekyllrb.com
+Serena Solin is a junior at Columbia University double majoring in English and Creative Writing with a focus in Poetry. 
