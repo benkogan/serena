@@ -1,0 +1,36 @@
+---
+layout: default
+title: Serena Solin
+---
+
+<div id="home">
+  {% for category in site.categories %}
+
+    {% assign words = category[0] | split: ' ' %}
+    <h1>{{ words[0] | capitalize }} {{ words[1] | capitalize }} {{ words[2] }} {{ words[3] | capitalize }} {{ words[4] | capitalize }} {{ words[n] | capitalize }}</h1>
+
+    <ul class="posts">
+      {% for posts in category %}
+        {% for post in posts %}
+
+          {% if post.category == "Published In" %}
+            {% if post.external_url %}
+              <li><span>{{ post.date | date_to_string }}</span> &raquo; 
+              <a href="{{ post.external_url }}">{{ post.title }}</a></li>
+            {% else %}
+              <li><span>{{ post.date | date_to_string }}</span> &raquo; 
+              <a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+          {% else %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endif %}
+
+        {% endfor %}
+      {% endfor %}
+    </ul>
+
+  {% endfor %}
+</div>
+
+<!-- Website by Ben Kogan <http://benkogan.com> -->
+<!-- Built on Jekyll      <http://jekyllrb.com> -->
