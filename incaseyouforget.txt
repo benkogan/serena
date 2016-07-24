@@ -1,0 +1,7 @@
+git status: status etc. 
+
+git add FILENAME (or . (adds everything tho so be careful))
+
+git commit -m "COMMIT MESSAGE"
+
+git push origin gh-pages
