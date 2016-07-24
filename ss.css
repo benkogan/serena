@@ -1,0 +1,37 @@
+body {
+	background-color: #FFFAF9;
+	font-size:17px;
+	font-family: "Helvetica","Helvetica","Arial";
+}
+
+#me {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	width:600px;
+}
+
+#fronttext {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	padding-top:20px;
+	line-height:1.2;
+	font-size: 17px;
+}
+
+a:link {
+	color:#5A3D36;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#8D7062;
+	text-decoration:none;
+}
+
+h1 {
+	font-size:18px;
+}

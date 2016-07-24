@@ -1,0 +1,27 @@
+body {
+	background-color: #FFFAF9;
+	line-height: 1.35;
+	margin-top:150px;
+	margin-bottom:150px;
+	font-family: "Helvetica","Helvetica","Arial"
+}
+
+a:link {
+	color:#6B5A51;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#6B5A51;
+	text-decoration:none;
+}
+
+h1 {
+	font-size:18px;
+}
+
+.container {
+	margin: 0 auto;
+	width: 800px;
+	height: 550px;
+}
