@@ -1,12 +1,12 @@
 body {
-	background-color: #FFFAF9;
+	background-color: #ECECED;
 	font-family: "Helvetica","Helvetica","Arial";
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width:600px;
 	line-height: 1.35;
-	margin-top:100px;
+	margin-top:90px;
 }
 
 h1 {

@@ -1,12 +1,21 @@
 body {
-	background-color: #FFFAF9;
+	background-color: #ECECED;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width:550px;
 	line-height: 1.35;
-	margin-top:150px;
+	margin-top:90px;
 	font-family: "Helvetica","Helvetica","Arial"
+}
+
+#me {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	width:400px;
 }
 
 a:link {
