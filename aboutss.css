@@ -1,20 +1,20 @@
 body {
-	background-color: #ECECED;
+	background-color: #fcfdff;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width:550px;
 	line-height: 1.35;
 	margin-top:90px;
-	font-family: "Hind","Helvetica","Arial"
+	font-family: "Georgia","Helvetica","Arial"
 }
 
 #me {
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:50px;
-	margin-bottom:50px;
+	margin-top:40px;
+	margin-bottom:40px;
 	width:400px;
 }
 
@@ -29,5 +29,9 @@ a:visited {
 }
 
 h1 {
-	font-size:18px;
+	font-size:16px;
+}
+
+p1 {
+	font-size:16px;
 }
