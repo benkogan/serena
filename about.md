@@ -6,4 +6,4 @@ permalink: /about/
 
 Hi! I'm Serena Solin. 
 
-![pic-of-me.jpg](assets/pic-of-me.jpg)
+![pic-of-me.jpg](/assets/pic-of-me.jpg){:height="300px"}
