@@ -9,7 +9,16 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
+            
+            {% if site.tinyletter_username %}
+            <li>
+              <a href="https://tinyletter.com/{{ site.tinyletter_username }}">
+                <i class="fa fa-tinyletter"></i> Subscribe to emails
+              </a>
+            </li>   
+  {% endif %}
         </ul>
+      
       </div>
 
       <div class="footer-col footer-col-2">
