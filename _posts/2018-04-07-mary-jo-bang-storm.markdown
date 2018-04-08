@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mary Jo Bang - The Storm We Call Progress"
-date: 2018-04-07 21:23
+date: 2018-04-07 20:34:14 -0500
 categories: poems
 ---
 Here’s the second poem I chose from _Privacy Policy_. I may post more; this anthology is very good. 

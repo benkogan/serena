@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "James Schuyler - Snow"
-date:   2018-04-07 20:31:14 -0500
+date:   2018-04-07 18:50:14 -0500
 categories: poems
 ---
 

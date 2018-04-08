@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eileen Myles - Notell"
-date: 2018-04-07 21:20
+date: 2018-04-07 20:24:14 -0500
 categories: poems
 ---
 This week I got my hands on _Privacy Policy: The Anthology of Surveillance Poetics_ edited by Andrew Ridker out from Black Ocean (can you say dream press?). I especially loved two poems from it. Here's the first. Eileen Myles thinks in line breaks that no one can imitate. 
