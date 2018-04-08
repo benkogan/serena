@@ -26,3 +26,11 @@ He hosts the show I put on when I drive, drifting from my home life, work life, 
 Unbolt the calm and what spills out is emergency, veiled by tumbling fabrics and white smoke.
 
 I imagine my face splashed across the landlord’s computer screen.
+
+*   *   *
+<br>
+![immaculate-conception.jpg](/assets/immaculate-conception.jpg){:height="450" .center-image}
+
+“Our Lady should be painted as a beautiful young girl, 12 or 13 years old, in the flower of her youth. She should be painted wearing a white tunic and a blue mantle. She is surrounded by the sun, an oval sun of white and ochre, which sweetly blends into the sky. Rays of light emanate from her head, around which is a ring of twelve stars. An imperial crown adorns her head, without, however, hiding the stars. Under her feet is the moon.” –Francisco Pacheco, _The Art of Painting_ (1649)
+
+![surveillance-footage.jpg](/assets/surveillance-footage.jpg){:height="350" .center-image}
