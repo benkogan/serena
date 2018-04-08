@@ -4,7 +4,7 @@ title:  "Danniel Schoonebeek - Cold Open"
 date:   2018-04-08 11:38:14 -0500
 categories: poems
 ---
-Here is a poem with a tense and sexy opening tercet, followed by dazzling sprawl. A brief and utterly clear first section that leads into a more languid body is a lovely form for a poem.
+Here is a poem with a tense and sexy opening tercet (3 line stanza), followed by dazzling sprawl. A brief and utterly clear first section that leads into a more languid body is a beautiful form for a poem.
 
 ### Cold Open
 #### by Danniel Schoonebeek
