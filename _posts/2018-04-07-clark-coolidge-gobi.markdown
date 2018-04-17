@@ -5,7 +5,9 @@ date:   2018-04-07 18:24:14 -0500
 categories: poems
 ---
 
-Clark Coolidge’s poetry was a bright spot for me in a time of immense sameness. Of all living poets, I am most indebted to Coolidge. I was twenty; I had grown out of Anne Sexton and Mark Danielewski; I didn’t know what came next. I wanted sense and I wanted what’s beyond sense. Had I encountered a more lyric poet at that time-- Ashbery, Berryman, Lowell, or Bishop-- I might have been a better student… but being a better student isn’t everything. As if to make it even more beautiful, this poem is also a sonnet.
+Clark Coolidge’s poetry was a bright spot for me in a time of immense sameness. Of all living poets, I am most indebted to Coolidge. I was twenty; I had grown out of Anne Sexton and Mark Danielewski; I didn’t know what came next. I wanted sense and I wanted what’s beyond sense. Had I encountered a more lyric poet at that time-- Ashbery, Berryman, Lowell, or Bishop-- I might have been a better student… but being a better student isn’t everything. 
+
+As if to make it even more beautiful, this poem is also a sonnet.
 
 ## Gobi
 ### by Clark Coolidge
