@@ -25,7 +25,6 @@ description: "'Heavens have fallen /
   --Lucy Ives" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://serenasol.in" 
-instagram_username: localghost11
 tinyletter_username: "serenasolin"
 # Build settings
 markdown: kramdown
