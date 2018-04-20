@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Op-Ed - C.D. Wright
+title: C.D. Wright - Op-Ed
 categories: poems
 ---
 
