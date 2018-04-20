@@ -7,8 +7,6 @@ category: poems
 I keep the [poems-a-day](https://www.poets.org/poetsorg/poem-day) that I like in my inbox. Here's one.
 
 ### from _Descent_
- 
-#### Lauren Russell
 
 _Bob:_
 

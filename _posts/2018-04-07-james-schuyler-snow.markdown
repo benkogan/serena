@@ -8,7 +8,6 @@ categories: poems
 James Schuyler (1923-1991) was a New York School poet who became "increasingly reclusive" towards the end of his life "as he was beset with financial and health problems" (_Poetry Foundation_). His most famous poems have short lines, while his later poems have extremely long lines. I love him especially when he's colloquial. "it / isn't winter and it isn't spring / yes it is the sun" is such a lovely way of putting the weather today. 
 
 ### Spring
-#### by James Schuyler
 
 snow thick and wet, porous<br>
 as foam rubber yet<br>

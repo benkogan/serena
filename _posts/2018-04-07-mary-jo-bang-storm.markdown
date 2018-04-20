@@ -8,8 +8,6 @@ Here’s the second poem I chose from _Privacy Policy_. I may post more; this an
 
 ### The Storm We Call Progress
 
-#### by Mary Jo Bang
-
 Strum and concept, drum and bitterness, the dog<br>
 of history keeps being blown into the present—<br>
 her back to the future, her last supper simply becoming<br>

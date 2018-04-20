@@ -7,7 +7,6 @@ categories: poems
 This week I got my hands on _Privacy Policy: The Anthology of Surveillance Poetics_ edited by Andrew Ridker out from Black Ocean (can you say dream press?). I especially loved two poems from it. Here's the first. Eileen Myles thinks in line breaks that no one can imitate. 
 
 ### Notell
-#### by Eileen Myles
 
 It seems an unimaginable<br>
 Forest<br>

@@ -10,7 +10,6 @@ Clark Coolidge’s poetry was a bright spot for me in a time of immense sameness
 As if to make it even more beautiful, this poem is also a sonnet.
 
 ## Gobi
-### by Clark Coolidge
 
 columnar mufflered huffs &nbsp;&nbsp;&nbsp; in kelt spit back<br> 
 top o the morph echo &nbsp;&nbsp;&nbsp; lifters chaff chapters flue<br> 

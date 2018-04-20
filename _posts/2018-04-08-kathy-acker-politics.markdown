@@ -22,7 +22,6 @@ The filthy bedcover on stage I'm allergic to this way of life mine? the last tim
 <br>
 
 ### from _Blood and Guts in High School_
-#### by Kathy Acker
 
 LASHES, AS IF THE WORLD, BY ITS VERY NATURE, HATES ME. Early that morning, a few hours before the sun was due to come up, nothing else in the world being due, Johnny returned home (what is home?) and told Janey he had been drinking with Sally.
 
@@ -33,7 +32,6 @@ The plants in her room cast strange, beautiful shadows over the other shadows. I
 <br>
 
 ### from _The Childlike Life of the Black Tarantula_
-#### by Kathy Acker
 
 The beginning: 
 
@@ -44,7 +42,6 @@ I'm fifteen years old; I hate everyone. I don't hate everyone (that's stupid).
 <br>
 
 ### from _Hannibal Lecter, My Father_
-#### by Kathy Acker
 
 Because he's alone, a sailor's always telling himself who he is.
 
@@ -62,6 +59,5 @@ He certainly very clearly expressed something. Some said that he did not clearly
 <br>
 
 ### A Carafe, that is a Blind Glass
-#### by Gertrude Stein
 
 A kind in glass and a cousin, a spectacle and nothing strange a single hurt color and an arrangement in a system to pointing. All this and not ordinary, not unordered in not resembling. The difference is spreading.
