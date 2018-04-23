@@ -40,4 +40,4 @@ secretly. And too much."
 
 By the end of the poem I've spent a lot of time at this intersection of narratives. I'm wholly convinced of the situation's beauty, the good smell of New Jersey earth, but I've learned nothing about Nguyen or how he died, or even really much about the speaker. All I know is that she experiences love and loss earnestly and sensually. I assume that of most people. 
 
-So I do the worst possible thing for a poem ending in the first-person plural: I wonder if the conclusion really applies to me. Do we all love ourselves too much? Do I? Do we all love loss secretly? Is loving ourselves secretly (even secretively) and too much exactly what the lyric mode asks of us? Is there another way?
+So I do the worst possible thing for a poem ending in the first-person plural: I wonder if the conclusion really applies to me. Do we all love ourselves too much? Do I? Do we all love loss secretly? Is loving ourselves secretly (even secretively) _and_ too much exactly what the lyric mode asks of us? Is there another way?
