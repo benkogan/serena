@@ -17,7 +17,7 @@ Here's an example: ["River Pilgrims"]({{"/assets/RiverPilgrims.pdf" | absolute_u
 
 In this poem, the speaker walks by the shore of a river. I recognized the river immediately; it's the one near my dad's house (literally). The speaker compares herself to what she sees. She addresses an unknown character, a Sister Elizabeth (I wonder if she is addressing the township of Elizabeth, NJ?). She sees the signs of climate catastrophe in the "white tanks":
 
-![Hess](/assets/Edgewater_Hess_2.jpg){:height="400" .center-image}
+![Hess](/assets/Edgewater_Hess_2.JPG){:height="400" .center-image}
 
 but she has been seeing those signs for years and is bored and angry with them. The loons cry. To me this is a succinct and gorgeous poem. I'm not entirely sold on her depiction of "current apocalypse" but if she riffed on the theme in other poems in the book, I would believe it. 
 
