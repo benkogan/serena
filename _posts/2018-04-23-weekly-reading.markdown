@@ -15,7 +15,6 @@ The book becomes a doomed love story. Doomed because Chang can see the flaws of 
 
 Here's an example: ["River Pilgrims"]({{"/assets/RiverPilgrims.pdf" | absolute_url}})
 
-
 In this poem, the speaker walks by the shore of a river. I recognized the river immediately; it's the one near my dad's house (literally). The speaker compares herself to what she sees. She addresses an unknown character, a Sister Elizabeth (I wonder if she is addressing the township of Elizabeth, NJ?). She sees the signs of climate catastrophe in the "white tanks":
 
 ![Hess](/assets/Edgewater_Hess_2.jpg){:height="400" .center-image}
@@ -28,7 +27,7 @@ The following lines refer again to climate change, a more fantastical image. The
 
 Then we turn to God, capital G god (by nature of the sentence). He deletes a stump speech from a backpack (does away with pat language?). Then Chang interrupts with two lines of dialogue: "_nevermind._ I have two Bartlett pears and a Chinese umbrella. / Let's go." 
 
-With each new line of the second stanza stanza she ties off a thread from the first _and_ introduces something high-stakes to keep you interested. In the subsequent 4 sections of the poem she returns to addressing Sister Elizabeth and describing the waters of New Jersey, while introducing the narrative of a tragic death in the river _as well as_ a romantic narrative. 
+With each new line of the second stanza stanza she ties off a thread from the first and introduces something high-stakes to keep you interested. In the subsequent 4 sections of the poem she returns to addressing Sister Elizabeth and describing the waters of New Jersey, while introducing the narrative of a tragic death in the river _as well as_ a romantic narrative. 
 
 What I sensed in this book, and something I worry about in general, is the idea that the lyric makes a certain level of ornamentation necessary. The impulse of the lyric is always to "make" thought beautiful or entertaining. If you're a beautiful thinker and a beautiful writer like C.D. Wright or an entertaining thinker and writer like Richard Brautigan you'll be just fine. But for the rest of us who mix and match, isn't better not to force thoughts into containers more beautiful or entertaining than they are?
 
@@ -41,4 +40,4 @@ secretly. And too much."
 
 By the end of the poem I've spent a lot of time at this intersection of narratives. I'm wholly convinced of the situation's beauty, the good smell of New Jersey earth, but I've learned nothing about Nguyen or how he died, or even really much about the speaker. All I know is that she experiences love and loss earnestly and sensually. I assume that of most people. 
 
-So I do the worst possible thing for a poem ending in the first-person plural: I wonder if the conclusion really applies to me. Do we all love ourselves too much? Do I? Do we all love loss secretly? Is loving ourselves secretly (even secretively) _and_ too much exactly what the lyric mode asks of us? Is there another way?
+So I do the worst possible thing for a poem ending in the first-person plural: I wonder if the conclusion really applies to me. Do we all love ourselves too much? Do I? Do we all love loss secretly? Is loving ourselves secretly (even secretively) and too much exactly what the lyric mode asks of us? Is there another way?
