@@ -16,6 +16,4 @@ Luckily the internet makes transgressive media readily available; you just have 
 
 By seeking out transgressive thinkers and considering what makes them transgressive, I try to keep the ground level for the battle raging inside me. If _all_ I had to go on were the books I read for school and the academic community to discuss them with, if I didn't have the internet, rad friends, and an interest in the taboo and the untrendy, I might think that the decorous center was all there is. 
 
-It's not, though. People are out there thinking hard about the future and what we might want life to be like in it, including what we read and [what we hear](http://www.streetfightradio.com/). When it comes to artistic production in the 2020s I'm not betting conservatively. Look at [Brockhampton](https://en.wikipedia.org/wiki/Brockhampton_(band)). 
-
-Maybe all I'm saying is, there's nothing wrong with getting an MFA, I don't think. Though I appreciate the image, I don't think "a parade of inbred dogs" is _quite_ accurate. At least, I don't regret doing one. But thinking MFA writing is all there is means... you haven't done your Googling. 
+It's not, though. And the same is true outside academia. Anywhere there is cultural orthodoxy there are people who could look beyond it but don't. While we _aren't_ burning all our institutions to the ground, I think it's worthwhile to constantly seek out whatever is weird, risky, and different, and to gently but firmly encourage those who don't want to believe that there is anything else to open their minds.
