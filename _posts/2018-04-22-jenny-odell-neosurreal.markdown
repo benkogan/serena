@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jenny Odell - Neo-surreal and Jesús Castillo - poem from Remains
-category: thinkpieces
+category: picks, poems
 
 ---
 
