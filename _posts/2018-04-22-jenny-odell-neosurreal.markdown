@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jenny Odell - Neo-surreal and Jesús Castillo - poem from Remains
-category: picks, poems
+category: picks
 
 ---
 
@@ -11,7 +11,7 @@ I could just keep looking at these (it's a link, click it). Nostalgia made alien
 
 I do have memories, though. My dad works in audio/visual services and when I was a kid he did a lot of jobs for medical conferences. The slideshows he let me click through on his laptop had pictures of the human body in all sorts of disrepair. Dermatology was especially gruesome. What fascinated me most was an image of a vivisected human brain. I had seen drawings of the brain before, and maybe a picture in a book, but never on the bright crystal screen of a computer. I knew where the image was stored on the computer and if I had access to the laptop, I thought, I could look at it at any time. Anyone could.
 
-I realized immediately that if you could look at a brain at any time, you could look at anything else you wanted-- anyone's inside parts, anyone doing obscene things with them-- in more combinations than anyone could think of. The implications weren't just pornographic. With computer memory at my disposal, I could know all the answers to questions everyone was maddeningly unclear about. 
+I realized immediately that if you could look at a brain at any time, you could look at anything else you wanted-- anyone's inside parts, anyone doing obscene things with them-- in more combinations than anyone could think of. The implications weren't just pornographic. With computer memory at my disposal, I could know all the answers...
 
 <br>
 ![Odell](/assets/ns-information-storage.jpg){:height="500" .center-image}

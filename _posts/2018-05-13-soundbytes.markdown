@@ -2,7 +2,7 @@
 layout: post
 title:  Notes
 date:   2018-05-10
-categories: picks
+categories: journalentry
 ---
 
 What weird shit do you keep in your notes?
