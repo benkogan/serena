@@ -14,15 +14,7 @@
 # in the templates via {{ site.myvariable }}.
 title: serenasol.in
 email: serenasolin@gmail.com
-description: "'Heavens have fallen /
-  I am 24 /
-  Here is a thread of ice /
-  Penetrating the human sciences /
-  Once you are here, there is only living /
-  Once you were /
-  And believed I was good until you no longer believed this /
-  Of me' 
-  --Lucy Ives" 
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://serenasol.in"
 # Build settings

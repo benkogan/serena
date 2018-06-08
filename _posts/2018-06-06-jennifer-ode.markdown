@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Ode to the Lovers Upstairs by Jennifer Fandel
-categories: journalentry
+title:  Jennifer Fandel - Ode to the Lovers Upstairs 
+categories: poems
 ---
 
 I love to come across a contemporary poet I don't know, living in my city, writing gorgeous poems. I don't know anything about this person named Jennifer Fandel, but [every](http://poecology.org/issue-5/fandel/) [poem](http://baltimorereview.org/index.php/summer_2012/contributor/jennifer-fandel) I can find of hers online is striking.
