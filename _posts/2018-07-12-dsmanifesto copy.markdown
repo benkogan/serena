@@ -13,5 +13,6 @@ My apologies for the long delay... it's been a wild few weeks here.
 3. everyone with a COHESIVE ideology is a pig cop bastard, so we offer THREADS and FRAGMENTS 
 4. GAIETY and FOLLY are paramount
 5. PRESCRIPTIVISM is to be avoided
-6. CONSIDER
-7. NO WAR
+6. No private profiles
+7. CONSIDER
+8. NO WAR
